@@ -3,6 +3,7 @@
  
  ![pasted-image-0](https://user-images.githubusercontent.com/55574172/103234415-6490f480-491e-11eb-91b9-23b4e2904ac2.png)
 
+### Essa é uma primeira iteração do projeto, onde ele é feito baseado no ciclos do CRISP-DS
 
 # CONTEXTO DO PROJETO 
 ## O texto a seguir e todo o contexto do projeto você encotra no site: https://sejaumdatascientist.com/predicao-de-churn/
